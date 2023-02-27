@@ -1,5 +1,5 @@
 # Make the robot see
-**List the names and NetID for your partners here.**
+Pratul Tandon (pt347), Trevor Morcott (trm75), Maria Teresa Parreira (mb2554)
 
 Build off of Lab 3 from last week. This week's material can be done rather quickly.
 
