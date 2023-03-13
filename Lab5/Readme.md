@@ -39,6 +39,6 @@ F) (optional) [Mount your wheels to a prototype chassis](#part-f-mount-your-whee
 
 ### Deliverables: 
 
-## Videos of our team controlling the wheels with your joystick controller:
+## Videos of our team controlling the wheels with joystick controller:
 ## Proposals for rumble functionality: 
 
