@@ -47,7 +47,7 @@ https://user-images.githubusercontent.com/112022260/224866400-cc70967c-995c-4014
 ## Proposals for rumble functionality: 
 
 1. *Indicator of a dropped package:* Either on command or after 'accidental' interference with a placed object, the robot will quickly move left to dislodge the package and drop it.  This motion will be indicated by the rumble on the controller.
-2. *Indicator of 'fatigue': *. The robots arms would carry the package and as it moved more would grow tired.  This would be manifested by slowing and beginng to shake it's arms ultimately dropping the package.  These shakes and trembles could be indicated by the rumble being intermittent and light in intensity then building up.  The arms could be wizarded of Oz'd like a pupper or incorporated a small motor using the raspberry pi that pulls the strings back and forth imitating the shakiness.
+2. *Indicator of fatigue: * The robots arms would carry the package and as it moved more would grow tired.  This would be manifested by slowing and beginng to shake it's arms ultimately dropping the package.  These shakes and trembles could be indicated by the rumble being intermittent and light in intensity then building up.  The arms could be wizarded of Oz'd like a pupper or incorporated a small motor using the raspberry pi that pulls the strings back and forth imitating the shakiness.
 3.
 
 
